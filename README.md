@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Pinky!
+## 👋 Hi, I'm Navya Sri!
 
 I’m a **B.Tech Computer Science graduate** and a **Full Stack Python learner**, passionate about building web applications and improving my programming skills.
 
